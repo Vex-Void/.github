@@ -1,29 +1,24 @@
 <p>
-  <img src="docs/assets/voidtools-hero.svg" width="100%" alt="By Kixo&amp;Osk4rrv. This is VoidTools. Your everyday powerfull Multi-Tool." />
+  <img src="assets/voidtools-hero.svg" width="100%" alt="VoidTools. Your everyday Windows toolkit. By Kixo and Osk4rrv." />
 </p>
 
 <p>
-  <a href="#the-toolkit"><img src="docs/assets/voidtools-explore.svg" width="60%" alt="Explore the toolkit" /></a>&nbsp;
-  <a href="docs/DEVELOPMENT.md"><img src="docs/assets/voidtools-development.svg" width="38%" alt="Development notes" /></a>
+  <a href="#the-toolkit"><img src="assets/voidtools-explore.svg" width="60%" alt="Explore the toolkit" /></a>&nbsp;
+  <a href="https://voidtools.software/"><img src="assets/voidtools-website.svg" width="38%" alt="Project website" /></a>
 </p>
 
 <p>
-  <img src="docs/assets/voidtools-about.svg" width="100%" alt="One app. A lot of possibilities. System tools, everyday essentials and entertainment. Your tools, your space: custom themes, colors and dashboard. Built with C++20, React, TypeScript and WebView2." />
+  <img src="assets/voidtools-about.svg" width="100%" alt="System tools, everyday essentials and entertainment. Customize your themes, colors and dashboard. Built with C++20, React, TypeScript and WebView2." />
 </p>
 
-<a id="the-toolkit"></a>
+## The toolkit
 
 <p>
-  <img src="docs/assets/voidtools-toolkit.svg" width="100%" alt="The toolkit: Dashboard, Windows Optimizer and Clean Master; VoidNotes, Vlipboard, VoidLauncher and VoidWatch; Game Library, VoidStream and VoidPlayer; Temp Mail, VoidLock and VoidRPC; OSINT, Website Scan and Lua tools; custom themes and dashboard layouts." />
+  <img src="assets/voidtools-toolkit.svg" width="100%" alt="Dashboard, Windows Optimizer and Clean Master. VoidNotes, Vlipboard, VoidLauncher and VoidWatch. Game Library, VoidStream and VoidPlayer. Temp Mail, VoidLock and VoidRPC. OSINT, Website Scan and Lua tools. Custom themes and dashboard layouts." />
 </p>
 
-<details>
-  <summary>Building from source</summary>
-
-Read the [development notes](docs/DEVELOPMENT.md) and [MSVC / Ninja build guide](AGENTS.md). The app uses local build inputs; this repository is not yet a self-contained clean-clone build. Feature access can depend on your account and configured services.
-
-</details>
+See the [module guide](https://voidtools.software/explore/) and [project overview](https://voidtools.software/about/). Feature availability depends on your account and app version.
 
 <p>
-  <a href="https://github.com/osk4rrv"><img src="docs/assets/voidtools-footer.svg" width="100%" alt="Built by Kixo &amp; Osk4rrv. Your everyday tools. A little more Void." /></a>
+  <a href="https://github.com/osk4rrv"><img src="assets/voidtools-footer.svg" width="100%" alt="Built by Kixo and Osk4rrv." /></a>
 </p>
